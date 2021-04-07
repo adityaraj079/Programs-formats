@@ -1,6 +1,6 @@
 # Programs-formats
 
-## My default prgram formats to start the code
+## My default program formats to start the code
 
 S.No.  |  Link  |  Language  |  Comments
 -----  |  ----  |  --------  |  --------
