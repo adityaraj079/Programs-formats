@@ -1,6 +1,6 @@
 # Programs-formats
 
-## My program template to start code.
+## My program template
 
 S.No.  |  Link  |  Language  |  Comments
 -----  |  ----  |  --------  |  --------
