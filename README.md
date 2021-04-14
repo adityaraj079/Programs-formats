@@ -1,6 +1,6 @@
 # Programs-formats
 
-## My program template
+## My program templates
 
 S.No.  |  Link  |  Language  |  Comments
 -----  |  ----  |  --------  |  --------
