@@ -1,32 +1,53 @@
 #include <bits/stdc++.h>
+//pragmas
 #pragma GCC optimize ("03")              //For CP optimize
 #pragma GCC target ("sse4")              //For CP optimize
 using namespace std;
+//defines
 typedef long long ll;                   //Define ll for long long int
-#define rep(i,n) for (ll i=0; i<n; i++)
-#define rep1(i,n) for(ll i=1; i<=n; i++)
+
+#define fore(i,a,b) for(int i=a,ggdem=b;i<ggdem;i++)
 #define FastIO ios::sync_with_stdio(0); cin.tie(0); cout.tie(0);          //Define fastio so that the do not search for cin or cout each line
 
+//macros
+#define MOD 1000000007
+
+// Mathematical functions
+int GCD(int a, int b)
+{
+	while (b)
+	{
+		a %= b;
+		swap(a, b);
+	}
+	return a;
+}
+int LCM(int a, int b)
+{
+	return ((ll)a * b) / GCD(a, b);
+}
+
+//solution
+void solve()
+{
+    int n; cin>>n;
+    /* fore(i,a,b)
+	{
+		
+	}
+	This is loop from a to b
+	*/
+}
+
+//main function
 int main()
 {
 	FastIO
-	ll t; cin>>t;
+	int t; cin>>t;
 	while(t--)
 	{
-		ll n; cin>>n;
+		solve();
 		
 	}
-	/* rep(i,N); 
-	{
-		
-	}
-	This is loop from 0 to N-1
-	*/
 	
-	/* rep1(i,N); 
-	{
-		
-	}
-	This is loop from 1 to N
-	*/
 }
